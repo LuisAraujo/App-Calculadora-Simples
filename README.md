@@ -9,3 +9,4 @@ App Inventor.
 ### Descrição: 
 O app possui duas versões (versão 1 como o app + desafio II e versão 2 com o app + desafio I).
 
+[https://github.com/LuisAraujo/App-Calculadora-Simples/blob/master/printscreen.jpeg?raw=true](https://github.com/LuisAraujo/App-Calculadora-Simples/blob/master/printscreen.jpeg?raw=true "Print da Tela do App")
