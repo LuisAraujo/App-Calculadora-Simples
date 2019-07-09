@@ -1,4 +1,4 @@
-#App Minha Calculadora
+# App Minha Calculadora
 
 ### Descrição:
 App desenvolvido na oficina de mobile para estudantes iniciantes do curso de SI. 
