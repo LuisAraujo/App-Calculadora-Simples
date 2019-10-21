@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cálculo IMC</string>
+    <string name="apres">IMC é a sigla para Índice de Massa Corporal que serve para avaliar o peso do indivíduo em relação à sua altura e assim indicar se está dentro do peso ideal, acima ou abaixo do peso desejado. Estar dentro do peso certo é importante porque estar acima ou abaixo peso influencia muito na saúde.</string>
+    <string name="btn_prox">Realizar cálculo</string>
+    <string name="hint_peso">Seu peso...</string>
+    <string name="hint_alt">Sua altura...</string>
+    <string name="btn_calc">Calcular</string>
+    <string name="peso">KG</string>
+    <string name="altura">M</string>
+</resources>
